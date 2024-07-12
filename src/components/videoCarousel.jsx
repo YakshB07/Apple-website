@@ -148,7 +148,7 @@ const VideoCarousel = () => {
         setVideo((pre) => ({ ...pre, isPlaying: !pre.isPlaying }));
         break;
 
-      default:
+      default: so 
         return video;
     }
   };
