@@ -14,7 +14,6 @@ Currently, two official plugins are available:
   * `npm create vite@latest my-project -- --template react`
 3. Next run this line in your terminal
  * `npm install`
-4. After all that, now to run the project simply run to run this line 
- *`npm run dev`
+4. After all that, now to run the project simply run to run this line `npm run dev`
 5. Lastly just copy and paste the local address on a browser
 6. Enjoy the Project
